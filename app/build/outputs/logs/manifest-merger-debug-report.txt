@@ -1,0 +1,169 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\ Guest\Documents\GitHub\CS160Project\askSJSU\app\src\main\AndroidManifest.xml:2:1-54:12
+INJECTED from C:\Users\ Guest\Documents\GitHub\CS160Project\askSJSU\app\src\main\AndroidManifest.xml:2:1-54:12
+INJECTED from C:\Users\ Guest\Documents\GitHub\CS160Project\askSJSU\app\src\main\AndroidManifest.xml:2:1-54:12
+INJECTED from C:\Users\ Guest\Documents\GitHub\CS160Project\askSJSU\app\src\main\AndroidManifest.xml:2:1-54:12
+MERGED from [com.android.support.test:runner:1.0.1] C:\Users\ Guest\.gradle\caches\transforms-1\files-1.1\runner-1.0.1.aar\72ef3c7688ba0f1b225bcab3129203f1\AndroidManifest.xml:17:1-21:12
+MERGED from [com.android.support:design:27.1.0] C:\Users\ Guest\.gradle\caches\transforms-1\files-1.1\design-27.1.0.aar\bc744314bdd9aaabbfb1dfdaef48a609\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.0] C:\Users\ Guest\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.0.aar\3dfe18ae849f2d01be5cefc2b0a06b56\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\ Guest\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\41b5b18686a35fbad05a737dec699e54\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-v4:27.1.0] C:\Users\ Guest\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.0.aar\6025ec4aefab18af6040ab3e849e3a34\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.0] C:\Users\ Guest\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.0.aar\05cfe2811fd5d8c94b46853467250428\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.0] C:\Users\ Guest\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.0.aar\aeae7c22f4caaa59459b0efbac80186d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.0] C:\Users\ Guest\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.0.aar\96d8e602fe42fef152e4c64824bc8d02\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.0] C:\Users\ Guest\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.0.aar\053c061ea5e64b7770eb4bd85cb82ac8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.0] C:\Users\ Guest\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.0.aar\2d58ca5c712ea2fa65b127447942982e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.0] C:\Users\ Guest\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.0.aar\b2147edb50cc74d6eb5530a55030291d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.0] C:\Users\ Guest\.gradle\caches\transforms-1\files-1.1\transition-27.1.0.aar\1e820b8cddafacf0c3ab82feb8973e21\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.0] C:\Users\ Guest\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.0.aar\9f2932978dfcd9ef28b29cb5890e3913\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.0] C:\Users\ Guest\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.0.aar\2342028c8b82c848af391b0f1c56e99d\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\ Guest\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\7c5d9311465a7141666321f7bc2d954e\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\ Guest\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\64f93f00acdf572e58d46857c7545132\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\ Guest\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\568bcf79730752854e23cea3f9f723e4\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\ Guest\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\e27b923c2ad1b46f3aabf24e933bbebd\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\ Guest\Documents\GitHub\CS160Project\askSJSU\app\src\main\AndroidManifest.xml:2:1-54:12
+INJECTED from C:\Users\ Guest\Documents\GitHub\CS160Project\askSJSU\app\src\main\AndroidManifest.xml:2:1-54:12
+INJECTED from C:\Users\ Guest\Documents\GitHub\CS160Project\askSJSU\app\src\main\AndroidManifest.xml:2:1-54:12
+	package
+		ADDED from C:\Users\ Guest\Documents\GitHub\CS160Project\askSJSU\app\src\main\AndroidManifest.xml:3:5-40
+		INJECTED from C:\Users\ Guest\Documents\GitHub\CS160Project\askSJSU\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\ Guest\Documents\GitHub\CS160Project\askSJSU\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\ Guest\Documents\GitHub\CS160Project\askSJSU\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\ Guest\Documents\GitHub\CS160Project\askSJSU\app\src\main\AndroidManifest.xml:2:1-54:12
+		INJECTED from C:\Users\ Guest\Documents\GitHub\CS160Project\askSJSU\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\ Guest\Documents\GitHub\CS160Project\askSJSU\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\ Guest\Documents\GitHub\CS160Project\askSJSU\app\src\main\AndroidManifest.xml:2:1-54:12
+		INJECTED from C:\Users\ Guest\Documents\GitHub\CS160Project\askSJSU\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\ Guest\Documents\GitHub\CS160Project\askSJSU\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from C:\Users\ Guest\Documents\GitHub\CS160Project\askSJSU\app\src\main\AndroidManifest.xml:6:5-71
+	android:name
+		ADDED from C:\Users\ Guest\Documents\GitHub\CS160Project\askSJSU\app\src\main\AndroidManifest.xml:6:22-68
+uses-permission#android.permission.READ_PROFILE
+ADDED from C:\Users\ Guest\Documents\GitHub\CS160Project\askSJSU\app\src\main\AndroidManifest.xml:7:5-71
+	android:name
+		ADDED from C:\Users\ Guest\Documents\GitHub\CS160Project\askSJSU\app\src\main\AndroidManifest.xml:7:22-68
+uses-permission#android.permission.READ_CONTACTS
+ADDED from C:\Users\ Guest\Documents\GitHub\CS160Project\askSJSU\app\src\main\AndroidManifest.xml:8:5-72
+	android:name
+		ADDED from C:\Users\ Guest\Documents\GitHub\CS160Project\askSJSU\app\src\main\AndroidManifest.xml:8:22-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\ Guest\Documents\GitHub\CS160Project\askSJSU\app\src\main\AndroidManifest.xml:11:5-67
+	android:name
+		ADDED from C:\Users\ Guest\Documents\GitHub\CS160Project\askSJSU\app\src\main\AndroidManifest.xml:11:22-64
+application
+ADDED from C:\Users\ Guest\Documents\GitHub\CS160Project\askSJSU\app\src\main\AndroidManifest.xml:13:5-52:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\ Guest\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\41b5b18686a35fbad05a737dec699e54\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\ Guest\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\41b5b18686a35fbad05a737dec699e54\AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from C:\Users\ Guest\Documents\GitHub\CS160Project\askSJSU\app\src\main\AndroidManifest.xml:18:9-35
+	android:label
+		ADDED from C:\Users\ Guest\Documents\GitHub\CS160Project\askSJSU\app\src\main\AndroidManifest.xml:16:9-41
+	android:roundIcon
+		ADDED from C:\Users\ Guest\Documents\GitHub\CS160Project\askSJSU\app\src\main\AndroidManifest.xml:17:9-54
+	android:icon
+		ADDED from C:\Users\ Guest\Documents\GitHub\CS160Project\askSJSU\app\src\main\AndroidManifest.xml:15:9-43
+	android:allowBackup
+		ADDED from C:\Users\ Guest\Documents\GitHub\CS160Project\askSJSU\app\src\main\AndroidManifest.xml:14:9-35
+	android:theme
+		ADDED from C:\Users\ Guest\Documents\GitHub\CS160Project\askSJSU\app\src\main\AndroidManifest.xml:19:9-40
+activity#com.example.guest.askSJSU.InitialLoginActivity
+ADDED from C:\Users\ Guest\Documents\GitHub\CS160Project\askSJSU\app\src\main\AndroidManifest.xml:20:9-26:20
+	android:name
+		ADDED from C:\Users\ Guest\Documents\GitHub\CS160Project\askSJSU\app\src\main\AndroidManifest.xml:20:19-55
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\ Guest\Documents\GitHub\CS160Project\askSJSU\app\src\main\AndroidManifest.xml:21:13-25:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\ Guest\Documents\GitHub\CS160Project\askSJSU\app\src\main\AndroidManifest.xml:22:17-69
+	android:name
+		ADDED from C:\Users\ Guest\Documents\GitHub\CS160Project\askSJSU\app\src\main\AndroidManifest.xml:22:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\ Guest\Documents\GitHub\CS160Project\askSJSU\app\src\main\AndroidManifest.xml:24:17-77
+	android:name
+		ADDED from C:\Users\ Guest\Documents\GitHub\CS160Project\askSJSU\app\src\main\AndroidManifest.xml:24:27-74
+activity#com.example.guest.askSJSU.RegisterActivity
+ADDED from C:\Users\ Guest\Documents\GitHub\CS160Project\askSJSU\app\src\main\AndroidManifest.xml:27:9-33:20
+	android:parentActivityName
+		ADDED from C:\Users\ Guest\Documents\GitHub\CS160Project\askSJSU\app\src\main\AndroidManifest.xml:29:13-63
+	android:name
+		ADDED from C:\Users\ Guest\Documents\GitHub\CS160Project\askSJSU\app\src\main\AndroidManifest.xml:28:13-45
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from C:\Users\ Guest\Documents\GitHub\CS160Project\askSJSU\app\src\main\AndroidManifest.xml:30:13-32:56
+	android:value
+		ADDED from C:\Users\ Guest\Documents\GitHub\CS160Project\askSJSU\app\src\main\AndroidManifest.xml:32:17-53
+	android:name
+		ADDED from C:\Users\ Guest\Documents\GitHub\CS160Project\askSJSU\app\src\main\AndroidManifest.xml:31:17-63
+activity#com.example.guest.askSJSU.QuestionCreationActivity
+ADDED from C:\Users\ Guest\Documents\GitHub\CS160Project\askSJSU\app\src\main\AndroidManifest.xml:34:9-40:20
+	android:parentActivityName
+		ADDED from C:\Users\ Guest\Documents\GitHub\CS160Project\askSJSU\app\src\main\AndroidManifest.xml:36:13-59
+	android:name
+		ADDED from C:\Users\ Guest\Documents\GitHub\CS160Project\askSJSU\app\src\main\AndroidManifest.xml:35:13-53
+activity#com.example.guest.askSJSU.VoteActivity
+ADDED from C:\Users\ Guest\Documents\GitHub\CS160Project\askSJSU\app\src\main\AndroidManifest.xml:41:9-47:20
+	android:parentActivityName
+		ADDED from C:\Users\ Guest\Documents\GitHub\CS160Project\askSJSU\app\src\main\AndroidManifest.xml:43:13-59
+	android:name
+		ADDED from C:\Users\ Guest\Documents\GitHub\CS160Project\askSJSU\app\src\main\AndroidManifest.xml:42:13-41
+activity#com.example.guest.askSJSU.HomePageActivity
+ADDED from C:\Users\ Guest\Documents\GitHub\CS160Project\askSJSU\app\src\main\AndroidManifest.xml:48:9-51:68
+	android:label
+		ADDED from C:\Users\ Guest\Documents\GitHub\CS160Project\askSJSU\app\src\main\AndroidManifest.xml:50:13-72
+	android:theme
+		ADDED from C:\Users\ Guest\Documents\GitHub\CS160Project\askSJSU\app\src\main\AndroidManifest.xml:51:13-56
+	android:name
+		ADDED from C:\Users\ Guest\Documents\GitHub\CS160Project\askSJSU\app\src\main\AndroidManifest.xml:49:13-45
+uses-sdk
+INJECTED from C:\Users\ Guest\Documents\GitHub\CS160Project\askSJSU\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\ Guest\Documents\GitHub\CS160Project\askSJSU\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\ Guest\Documents\GitHub\CS160Project\askSJSU\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support.test:runner:1.0.1] C:\Users\ Guest\.gradle\caches\transforms-1\files-1.1\runner-1.0.1.aar\72ef3c7688ba0f1b225bcab3129203f1\AndroidManifest.xml:19:5-72
+MERGED from [com.android.support.test:runner:1.0.1] C:\Users\ Guest\.gradle\caches\transforms-1\files-1.1\runner-1.0.1.aar\72ef3c7688ba0f1b225bcab3129203f1\AndroidManifest.xml:19:5-72
+MERGED from [com.android.support:design:27.1.0] C:\Users\ Guest\.gradle\caches\transforms-1\files-1.1\design-27.1.0.aar\bc744314bdd9aaabbfb1dfdaef48a609\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.0] C:\Users\ Guest\.gradle\caches\transforms-1\files-1.1\design-27.1.0.aar\bc744314bdd9aaabbfb1dfdaef48a609\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.0] C:\Users\ Guest\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.0.aar\3dfe18ae849f2d01be5cefc2b0a06b56\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.0] C:\Users\ Guest\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.0.aar\3dfe18ae849f2d01be5cefc2b0a06b56\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\ Guest\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\41b5b18686a35fbad05a737dec699e54\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\ Guest\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\41b5b18686a35fbad05a737dec699e54\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v4:27.1.0] C:\Users\ Guest\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.0.aar\6025ec4aefab18af6040ab3e849e3a34\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.0] C:\Users\ Guest\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.0.aar\6025ec4aefab18af6040ab3e849e3a34\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.0] C:\Users\ Guest\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.0.aar\05cfe2811fd5d8c94b46853467250428\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.0] C:\Users\ Guest\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.0.aar\05cfe2811fd5d8c94b46853467250428\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.0] C:\Users\ Guest\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.0.aar\aeae7c22f4caaa59459b0efbac80186d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.0] C:\Users\ Guest\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.0.aar\aeae7c22f4caaa59459b0efbac80186d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.0] C:\Users\ Guest\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.0.aar\96d8e602fe42fef152e4c64824bc8d02\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.0] C:\Users\ Guest\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.0.aar\96d8e602fe42fef152e4c64824bc8d02\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.0] C:\Users\ Guest\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.0.aar\053c061ea5e64b7770eb4bd85cb82ac8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.0] C:\Users\ Guest\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.0.aar\053c061ea5e64b7770eb4bd85cb82ac8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.0] C:\Users\ Guest\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.0.aar\2d58ca5c712ea2fa65b127447942982e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.0] C:\Users\ Guest\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.0.aar\2d58ca5c712ea2fa65b127447942982e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.0] C:\Users\ Guest\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.0.aar\b2147edb50cc74d6eb5530a55030291d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.0] C:\Users\ Guest\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.0.aar\b2147edb50cc74d6eb5530a55030291d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.0] C:\Users\ Guest\.gradle\caches\transforms-1\files-1.1\transition-27.1.0.aar\1e820b8cddafacf0c3ab82feb8973e21\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.0] C:\Users\ Guest\.gradle\caches\transforms-1\files-1.1\transition-27.1.0.aar\1e820b8cddafacf0c3ab82feb8973e21\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.0] C:\Users\ Guest\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.0.aar\9f2932978dfcd9ef28b29cb5890e3913\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.0] C:\Users\ Guest\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.0.aar\9f2932978dfcd9ef28b29cb5890e3913\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.0] C:\Users\ Guest\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.0.aar\2342028c8b82c848af391b0f1c56e99d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.0] C:\Users\ Guest\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.0.aar\2342028c8b82c848af391b0f1c56e99d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\ Guest\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\7c5d9311465a7141666321f7bc2d954e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\ Guest\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\7c5d9311465a7141666321f7bc2d954e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\ Guest\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\64f93f00acdf572e58d46857c7545132\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\ Guest\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\64f93f00acdf572e58d46857c7545132\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\ Guest\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\568bcf79730752854e23cea3f9f723e4\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\ Guest\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\568bcf79730752854e23cea3f9f723e4\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\ Guest\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\e27b923c2ad1b46f3aabf24e933bbebd\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\ Guest\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\e27b923c2ad1b46f3aabf24e933bbebd\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\ Guest\Documents\GitHub\CS160Project\askSJSU\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\ Guest\Documents\GitHub\CS160Project\askSJSU\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\ Guest\Documents\GitHub\CS160Project\askSJSU\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\ Guest\Documents\GitHub\CS160Project\askSJSU\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\ Guest\Documents\GitHub\CS160Project\askSJSU\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\ Guest\Documents\GitHub\CS160Project\askSJSU\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\ Guest\Documents\GitHub\CS160Project\askSJSU\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\ Guest\Documents\GitHub\CS160Project\askSJSU\app\src\main\AndroidManifest.xml
