@@ -2,6 +2,7 @@ package com.example.guest.askSJSU;
 
 import android.content.Context;
 import android.support.annotation.NonNull;
+import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
@@ -27,10 +28,12 @@ public class QuestionAdapter extends ArrayAdapter<Question> {
 
     @Override @NonNull
     public View getView(int position, View convertView, @NonNull ViewGroup parent) {
+
         // Get the data item for this position
         final Question question = getItem(position);
         // Check if an existing view is being reused, otherwise inflate the view
         ViewHolder viewHolder; // view lookup cache stored in tag
+
         if (convertView == null) {
             // If there's no view to re-use, inflate a brand new view for row
             viewHolder = new ViewHolder();

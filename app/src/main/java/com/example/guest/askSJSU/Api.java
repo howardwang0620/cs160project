@@ -26,6 +26,7 @@ public class Api {
     public static final String URL_GET_QUESTION_OPTION = ROOT_URL + "getquestionoption&optionid=";
     public static final String URL_UPDATE_QUESTION_OPTION_VOTE = ROOT_URL + "updatequestionoptionvote";
     public static final String URL_DELETE_QUESTION_OPTION = ROOT_URL + "deletequestionoption&optionid=";
+    public static final String URL_GET_QUESTION_BY_USER_ID = ROOT_URL + "getquestionsbyuserid&userid=";
 
     public static final int CODE_GET_REQUEST = 1024;
     public static final int CODE_POST_REQUEST = 1025;

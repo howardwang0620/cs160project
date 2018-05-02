@@ -1,7 +1,19 @@
-#Mon Apr 30 21:24:25 PDT 2018
-base.0=C\:\\Users\\ Guest\\Documents\\GitHub\\CS160Project\\askSJSU\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\11
+#Tue May 01 14:16:58 PDT 2018
 path.1=classes.dex
-renamed.1=classes2.dex
 path.0=classes.dex
+renamed.5=classes6.dex
+renamed.4=classes5.dex
+renamed.3=classes4.dex
+renamed.2=classes3.dex
+renamed.1=classes2.dex
 renamed.0=classes.dex
-base.1=C\:\\Users\\ Guest\\Documents\\GitHub\\CS160Project\\askSJSU\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\12
+base.5=C\:\\Users\\drhow\\Downloads\\cs160project-master\\cs160project-master\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\15
+base.4=C\:\\Users\\drhow\\Downloads\\cs160project-master\\cs160project-master\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\12
+base.3=C\:\\Users\\drhow\\Downloads\\cs160project-master\\cs160project-master\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\11
+base.2=C\:\\Users\\drhow\\Downloads\\cs160project-master\\cs160project-master\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\14
+base.1=C\:\\Users\\drhow\\Downloads\\cs160project-master\\cs160project-master\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\13
+base.0=C\:\\Users\\drhow\\Downloads\\cs160project-master\\cs160project-master\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\16
+path.5=classes.dex
+path.4=classes.dex
+path.3=classes.dex
+path.2=classes.dex

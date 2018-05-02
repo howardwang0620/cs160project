@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\ Guest\\Documents\\GitHub\\CS160Project\\askSJSU\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-am\\values-am.xml",
+            "outputFile": "C:\\Users\\drhow\\Downloads\\cs160project-master\\cs160project-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-am\\values-am.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\ Guest\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\3dfe18ae849f2d01be5cefc2b0a06b56\\res\\values-am\\values-am.xml",
+                    "source": "C:\\Users\\drhow\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\489f09fa31f75d8273a0ec60068d1979\\res\\values-am\\values-am.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -14,7 +14,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\ Guest\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.0.aar\\2342028c8b82c848af391b0f1c56e99d\\res\\values-am\\values-am.xml",
+                    "source": "C:\\Users\\drhow\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.0.aar\\3630eaae3eb10078fb90b0267a03099d\\res\\values-am\\values-am.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\ Guest\\Documents\\GitHub\\CS160Project\\askSJSU\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+            "outputFile": "C:\\Users\\drhow\\Downloads\\cs160project-master\\cs160project-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw600dp-v13\\values-sw600dp-v13.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\ Guest\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.1.0.aar\\bc744314bdd9aaabbfb1dfdaef48a609\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+                    "source": "C:\\Users\\drhow\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.1.0.aar\\d5eb9b52632d9d76da719284ea36b278\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4",
@@ -23,7 +23,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\ Guest\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\3dfe18ae849f2d01be5cefc2b0a06b56\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+                    "source": "C:\\Users\\drhow\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\489f09fa31f75d8273a0ec60068d1979\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9",
                         "startColumns": "4,4,4,4,4,4,4,4",

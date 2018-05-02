@@ -57,6 +57,13 @@
             android:name="com.example.guest.askSJSU.HomePageActivity"
             android:label="@string/title_activity_home_page_nav_drawer"
             android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="com.example.guest.askSJSU.PostHistoryActivity"
+            android:parentActivityName="com.example.guest.askSJSU.HomePageActivity" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".HomePageActivity" />
+        </activity>
     </application>
 
 </manifest>

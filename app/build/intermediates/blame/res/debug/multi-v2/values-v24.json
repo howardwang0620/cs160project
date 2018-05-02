@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\ Guest\\Documents\\GitHub\\CS160Project\\askSJSU\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v24\\values-v24.xml",
+            "outputFile": "C:\\Users\\drhow\\Downloads\\cs160project-master\\cs160project-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v24\\values-v24.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\ Guest\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\3dfe18ae849f2d01be5cefc2b0a06b56\\res\\values-v24\\values-v24.xml",
+                    "source": "C:\\Users\\drhow\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\489f09fa31f75d8273a0ec60068d1979\\res\\values-v24\\values-v24.xml",
                     "from": {
                         "startLines": "2,3",
                         "startColumns": "4,4",
@@ -14,7 +14,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\ Guest\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.1.0.aar\\9f2932978dfcd9ef28b29cb5890e3913\\res\\values-v24\\values-v24.xml",
+                    "source": "C:\\Users\\drhow\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.1.0.aar\\76517fe309f7b114cdd94b75e302da95\\res\\values-v24\\values-v24.xml",
                     "from": {
                         "startLines": "2,3,4,5",
                         "startColumns": "4,4,4,4",

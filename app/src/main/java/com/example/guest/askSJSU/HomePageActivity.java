@@ -4,6 +4,7 @@ import android.content.Intent;
 import android.os.Bundle;
 import android.support.design.widget.FloatingActionButton;
 import android.support.design.widget.Snackbar;
+import android.util.Log;
 import android.view.View;
 import android.support.design.widget.NavigationView;
 import android.support.v4.view.GravityCompat;
@@ -49,6 +50,13 @@ public class HomePageActivity extends AppCompatActivity
         NavigationView navigationView = (NavigationView) findViewById(R.id.nav_view);
         navigationView.setNavigationItemSelectedListener(this);
 
+        View headerView = navigationView.getHeaderView(0);
+        TextView userNameTxt = (TextView) headerView.findViewById(R.id.homePageUserNameTxtView);
+        userNameTxt.setText("buffer");
+
+        TextView emailTxt = (TextView) headerView.findViewById(R.id.homePageEmailTxtView);
+        emailTxt.setText("email@email.com");
+
         Bundle extras = this.getIntent().getExtras();
         userID = extras.getInt("USERID", 0);
 
@@ -69,13 +77,6 @@ public class HomePageActivity extends AppCompatActivity
                 startActivity(intent);
             }
         });
-
-        TextView userNameTxt = (TextView) findViewById(R.id.homePageUserNameTxtView);
-        userNameTxt.setText("username");
-
-        TextView emailTxt = (TextView) findViewById(R.id.homePageEmailTxtView);
-        emailTxt.setText("email@email.com");
-
     }
 
     @Override
@@ -119,7 +120,9 @@ public class HomePageActivity extends AppCompatActivity
         if (id == R.id.nav_Home) {
             // Handle the camera action
         } else if (id == R.id.nav_myPosts) {
-
+            Intent intent = new Intent(HomePageActivity.this, PostHistoryActivity.class);
+            intent.putExtra("USERID", userID);
+            startActivity(intent);
         } else if (id == R.id.nav_Settings) {
 
         } else if (id == R.id.nav_logout) {

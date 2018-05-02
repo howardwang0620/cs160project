@@ -3,7 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/askSJSU.iml" filepath="$PROJECT_DIR$/askSJSU.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cs160project-master.iml" filepath="$PROJECT_DIR$/cs160project-master.iml" />
     </modules>
   </component>
 </project>
